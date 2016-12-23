@@ -1,1 +1,1 @@
-"# golang-cross" 
+# golang-cross
